@@ -9,8 +9,6 @@ public class HelloGitHub {
 		System.out.println("Hello GitHub!");
 		
 		System.out.println("Edit HelloGitHub");
-
-		System.out.println("2nd edit helloGithub");
 	}
 
 }
