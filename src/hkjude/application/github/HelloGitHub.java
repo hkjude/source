@@ -11,6 +11,8 @@ public class HelloGitHub {
 		System.out.println("Edit HelloGitHub");
 
 		System.out.println("2nd edit helloGithub");
+		
+		System.out.println("Eclipse egit plug use");
 	}
 
 }
