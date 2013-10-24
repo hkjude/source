@@ -13,6 +13,9 @@ public class HelloGitHub {
 		System.out.println("2nd edit helloGithub");
 		
 		System.out.println("Eclipse egit plug use");
+		
+		System.out.println("Eclipse-Indigo use");
+		
 	}
 
 }
